@@ -6,3 +6,5 @@ The course contains the following four **final** projects:
 * Developing a Handwritten Digits Classifier with PyTorch
 * Landmark Classification & Tagging for Social Media
 * Building an ML Workflow for Scones Unlimited on Amazon SageMaker
+
+Here is the certificate of Completion: https://www.udacity.com/certificate/e/c25cffd4-f6c0-11ee-99f1-1b429789fb19
